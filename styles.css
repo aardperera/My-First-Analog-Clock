@@ -1,7 +1,5 @@
 body{
-    /* added background color to body*/
     background: linear-gradient(to left, hsl(200,100%,50%),hsl(175, 100%,50%));
-
 }
 .clock{
     background: #ececec;
